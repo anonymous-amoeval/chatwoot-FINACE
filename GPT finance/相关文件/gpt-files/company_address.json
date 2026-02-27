@@ -1,0 +1,109 @@
+{
+    "Sydney": {
+        "Headquarters": {
+            "address": "Level 3, 370 Pitt St, Sydney NSW 2000",
+            "phone": "1800 088 666"
+        },
+        "Branches": [
+            {
+                "name": "Chatswood",
+                "address": "Suite 702, 1-5 Railway Street, North Tower, Chatswood NSW 2067",
+                "phone": "02 8599 8766"
+            },
+            {
+                "name": "Hurstville",
+                "address": "Level 2, 20 Dora St, Hurstville NSW 2220",
+                "phone": "02 8188 5919"
+            },
+            {
+                "name": "Hornsby",
+                "address": "2/ 17-19 Florence St, Hornsby NSW 2077",
+                "phone": "02 8859 2049"
+            },
+            {
+                "name": "Rhodes",
+                "address": "C2-63 Shoreline Drive, Rhodes NSW 2138",
+                "phone": "02 8859 2040"
+            },
+            {
+                "name": "Parramatta",
+                "address": "Suite 306A, Level 3 North, Personia, 215. 2-12 Macquarie St",
+                "phone": "02 8859 2045"
+            },
+            {
+                "name": "Eastwood",
+                "address": "Suite 107, 160 Rowe St, Eastwood NSW 2122"
+            },
+            {
+                "name": "Burwood",
+                "address": "3A, 5 belmore St, Burwood NSW 2134",
+                "phone": "02 8011 0650"
+            },
+            {
+                "name": "Macquarie Park",
+                "address": "7B/ 277 Lane Cove Rd, Macquarie Park NSW 2113",
+                "phone": "1300 688 799"
+            },
+            {
+                "name": "Zetland",
+                "address": "Suite 228, 100 Collins St, Alexandria NSW 2015",
+                "phone": "02 8964 0689"
+            }
+        ]
+    },
+    "Melbourne": {
+        "CBD": {
+            "address": "Suite 904 Level 9, 179 Queen St",
+            "phone": "03 8669 0309"
+        },
+        "Docklands": {
+            "address": "Suite R12, Ground, 717 Bourke St, Docklands VIC 3008",
+            "phone": "03 9005 1178"
+        },
+        "Head Office": {
+            "address": "Level 34, 360 Elizabeth Street",
+            "phone": "1800 088 666"
+        },
+        "Branches": [
+            {
+                "name": "Glen Waverley",
+                "address": "Unit 1 / 710 High Street Road, Glen Waverley, VIC 3150",
+                "phone": "03 9802 0068"
+            },
+            {
+                "name": "BoxHill",
+                "address": "Suite 207A/ 901 Whitehorse",
+                "phone": "03 9898 3626"
+            },
+            {
+                "name": "Doncaster",
+                "address": "3/101 Tram Road, Doncaster VIC 3108",
+                "phone": "03 9855 8866"
+            }
+        ]
+    },
+    "Brisbane": {
+        "Branch": {
+            "address": "Level 3, 247 Adelaide St, Brisbane QLD 4000",
+            "phone": "07 3102 1238"
+        }
+    },
+    "Canberra": {
+        "Branch": {
+            "address": "Ground floor, 175 London Circuit, Canberra ACT 2601",
+            "phone": "02 6100 6510"
+        }
+    },
+    "Adelaide": {
+        "Branch": {
+            "address": "Suite 303 Pulteney Street, Adelaide, SA 5000",
+            "phone": "188 088 666"
+        }
+    },
+    "Perth": {
+        "Branch": {
+            "address": "3/162 Colin St, West Perth WA 600",
+            "phone": "188 088 666"
+        }
+    }
+}

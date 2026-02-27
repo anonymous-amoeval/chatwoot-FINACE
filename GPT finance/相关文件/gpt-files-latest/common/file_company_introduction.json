@@ -1,0 +1,43 @@
+{
+    "company_info": {
+        "name_cn": "DEMO",
+        "name_en": "DEMO",
+        "introduction_cn": "DEMO是一家位于澳大利亚的金融服务公司，专注于外币兑换和国际汇款。该公司在澳大利亚交易报告与分析中心（AUSTRAC）注册，并持有独立的货币兑换许可证（AUSTRAC 汇款经销商编号：DEMO）。\n环球支付公司为客户提供主要G10货币以及一些东南亚货币的双向兑换和国际汇款服务。交易货币包括美元、澳元、人民币、欧元、英镑、港元、新加坡元、加元、新西兰元、日元等。\n多年来，环球支付公司以卓越的服务质量、有竞争力的价格和一丝不苟的态度为所有外汇客户提供服务。该公司拥有由经验丰富的金融服务团队管理的大量资本储备。此外，它还整合了一个强大的支持团队，包括高级贷款经纪人、律师、会计师和移民顾问等，为每位客户提供个性化财务咨询以及全面专业的外汇及国际汇款服务。",
+        "introduction_en": "DEMO Co is a financial services company in Australia specializing in foreign currency exchange and international remittance. It is registered with the Australian Transaction Reports and Analysis Centre (AUSTRAC) and holds an independent license for currency exchange (AUSTRAC Remittance Dealer Number: DEMO). \nDEMO Co provides customers with bidirectional exchange and international remittance services for major G10 currencies as well as some Southeast Asian currencies. The transaction currencies include USD, AUD, RMB, EUR, GBP, HKD, SGD, CAD, NZD, JPY among others. \nOver the years, DEMO Co has served all its currency exchange clients with excellent service quality, competitive pricing, and a meticulous attitude. The company boasts substantial capital reserves managed by an experienced financial services team. Additionally, it integrates a robust support team that includes senior loan brokers, lawyers, accountants, immigration consultants among others to offer every client personalized financial consulting along with comprehensive professional services in foreign currency exchange and international remittance.",
+        "team_introduction_cn": "公司拥有雄厚的资金储备，由经验丰富的金融服务团队潜心运营，并整合了包括资深贷款经纪人、律师、会计师、移民留学中介等强大的后台延伸服务团队，力求为每一个客户提供私人定制级别的金融咨询、外币汇兑、国际汇款等全方位、专业和贴心的服务。",
+        "team_introduction_en": "The company has strong financial reserves, operated by an experienced financial services team. It integrates a powerful backend support team including senior loan brokers, lawyers, accountants, and immigration and study abroad agents. The aim is to provide each customer with personalized financial consulting, foreign exchange, international remittance, and other comprehensive, professional and attentive services.",
+        "addresses": [
+            {
+                "name": "DEMOOOO",
+                "address": "DEMOOOO",
+                "phone": "+61 0000000000"
+            }
+        ],
+        "advantages": [
+            {
+                "title_cn": "合法资质 & 高安全性",
+                "description_cn": "DEMO是由澳大利亚政府批准的专业外币汇兑和国际汇款的金融服务公司，客户在DEMO所做的交易符合澳大利亚法律的規定，DEMO也会受到澳大利亚金融交易报告与分析中心（AUSTRAC）的监管。",
+                "title_en": "Legal Qualifications & High Security",
+                "description_en": "DEMO Co is a financial services company specializing in foreign currency exchange and international remittance approved by the Australian government. Transactions made by customers at DEMO Co comply with Australian laws and regulations, and DEMO Co is also regulated by the Australian Transaction Reports and Analysis Centre (AUSTRAC)."
+            },
+            {
+                "title_cn": "个人隐私保障",
+                "description_cn": "DEMO承诺并且严格邈守澳大利亚个人信息法以确保客户个人信息的安全。同时，公司定期提供培训以加强员工对保护客户个人信息的意识。",
+                "title_en": "Personal Privacy Protection",
+                "description_en": "DEMO Co promises and strictly adheres to the Australian Privacy Act to ensure the security of customer personal information. The company also provides regular training to enhance employee awareness of protecting customer personal information."
+            },
+            {
+                "title_cn": "多国货币，双向汇兑",
+                "description_cn": "DEMO为客户提供全球主要G10和部分东南亚货币的双向汇兑和国际汇款服务，交易的币种包括美元、澳币和人民币与欧元、英镑、港市、新加坡币、加拿大币、新西兰市、日元等币种的双向汇兑。",
+                "title_en": "Multi-Currency, Bidirectional Exchange",
+                "description_en": "DEMO Co provides customers with bidirectional exchange and international remittance services for major G10 currencies as well as some Southeast Asian currencies. The transaction currencies include USD, AUD, RMB, EUR, GBP, HKD, SGD, CAD, NZD, JPY among others."
+            },
+            {
+                "title_cn": "最有竞争力的汇率",
+                "description_cn": "DEMO力争为客户提供最有竞争力的汇率，我们最大程度上降低您的成本，不收取任何手续费，不受国内涉外汇款限制，交易模式灵活。绝大多数外汇交易可在24-48小时内到达客户指定的账户。",
+                "title_en": "Most Competitive Exchange Rate",
+                "description_en": "DEMO Co strives to provide customers with the most competitive exchange rate, minimizing your costs to the greatest extent. We do not charge any fees, are not subject to domestic restrictions on foreign exchange remittances, and offer flexible transaction modes. The vast majority of foreign exchange transactions can be completed within 24-48 hours and arrive at the customer's designated account."
+            }
+        ]
+    }
+}
